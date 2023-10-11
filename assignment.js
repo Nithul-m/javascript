@@ -1,0 +1,11 @@
+let x = 10;
+x += 3;
+console.log(x);
+let y = 12;
+y -= 2;
+console.log(y);
+let z = 20;
+z *= 2;
+console.log(z);
+let res = x/= z;
+console.log(res);

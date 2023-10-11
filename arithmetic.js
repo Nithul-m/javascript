@@ -1,0 +1,20 @@
+let x = 10;
+let y = 20;
+
+let add = x + y;
+console.log(add);
+let sub = x - y;
+console.log(sub);
+let mul = x * y;
+console.log(mul);
+let div = x / y;
+console.log(div);
+let mod = x % 2;
+console.log(mod);
+x++;
+console.log(x);
+--y;
+console.log(y);
+let z = 2;
+z ** 3;
+console.log(z);
